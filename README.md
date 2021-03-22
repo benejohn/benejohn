@@ -3,8 +3,8 @@
 ## I'm a Developer in love with Data Structures & Algorithms and their implementation in any Programming Language 
 <a href="https://github.com/benejohn">
   <div>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=benejohn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=benejohn&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=benejohn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=benejohn&layout=compact&langs_count=8&theme=dracula"/>
   </div>
 </a>
 <div style="display: inline_block"><br>
